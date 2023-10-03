@@ -1,27 +1,108 @@
-# @onediversified/DIV.Template.Crestron.SIMPL
+## PROJECT_NAME
 
-This is a project template for Crestron SIMPL Windows code.
+Joey's Resturant Dallas
 
-## Install and Usage
+___
 
-1. Create a new project and select `OneDiversified/DIV.Template.Crestron.SIMPL` as the repository template. 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#DPC">DPC Numbers</a></li>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
-2. Clone the newly created project to your system.
 
-3. Open a command prompt in the cloned directory and run `npm update`
 
-4. Next run `npm install` to update any files in the base template.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-5. Update the package.json `name`, `version number`, `description`, and `author` fields as well as any web link with project specific info.
+[Joey's Resturant](https://joeyrestaurants.com/)
 
-6. Update the contents of the `PROJECT-README.md` file with appropriate project info. Delete any sections that are not pertinent to your project type and and make sure to update all links, names, etc. where appropriate. Go through this file line-by-line to ensure all values get updated/removed correctly.
+This is a small proeject for Joey's Rsturant in Dallas Text. 
 
-7. Delete this `README.md` file and then rename `PROJECT-README.md` to `README.md`
+### DPC
 
-## Troubleshooting
+[AV2DALLA-0014033](https://onediversified.sharepoint.com/sites/DPC_30777/Project/Forms/Descriptions.aspx)
 
-### Failed to authenticate with GitHub Packages service
+### Built With
 
-Make sure to login with `npm login --scope=@onediversified --registry=https://npm.pkg.github.com` before running the `npm update` command
 
-You will need to create a personal access token in GitHub and assign it permissions to read / write packages. The token is used as your password during the `npm login` process.
+* [Crestron](https://crestron.com)
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+Clone repo, create branch, make edits
+
+### Prerequisites
+
+none
+
+### Installation
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/OneDiversified/<PROJECT_NAME>.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```JS
+   const API_KEY = 'ENTER YOUR API';
+   ```
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/OneDiversified/DIV.JoeysResturant.Dallas.Texas/issues) for a list of proposed features (and known issues).
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+## License
+
+This project is Copyright &copy;2022 by [Diversified](https://onediversified.com). All Rights Reserved.
+
+<!-- CONTACT -->
+## Contact
+
+[Steven Amos](https://teams.microsoft.com/l/chat/0/0?users=<samos@diversifiedus.com>)
+
+Project Link: [https://github.com/OneDiversified/DIV.JoeysResturant.Dallas.Texas](https://github.com/OneDiversified/DIV.JoeysResturant.Dallas.Texas)
