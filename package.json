@@ -1,0 +1,26 @@
+{
+  "name": "@onediversified/div-template-crestron-simpl",
+  "version": "2.0.0",
+  "description": "Code template for Crestron SIMPL Windows projects",
+  "main": "n/a",
+  "scripts": {
+    "postinstall": "cpy gitignore ../../../ --cwd=\"node_modules/@onediversified/div-template-basefiles-crestron\" --rename=.gitignore && cpy gitattributes ../../../ --cwd=\"node_modules/@onediversified/div-template-basefiles-crestron\" --rename=.gitattributes && cpy \"node_modules/**/*.{usp,ush,umc,pdf,clz}\" ./Code --flat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/OneDiversified/DIV.Template.Crestron.SIMPL.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/OneDiversified/DIV.Template.Crestron.SIMPL/issues"
+  },
+  "homepage": "https://github.com/OneDiversified/DIV.Template.Crestron.SIMPL#readme",
+  "devDependencies": {
+    "@onediversified/div-template-basefiles-crestron": "^2.0.0",
+    "cpy-cli": "^4.1.0"
+  }
+}
