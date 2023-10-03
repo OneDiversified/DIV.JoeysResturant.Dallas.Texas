@@ -21,6 +21,9 @@ SIMPLSharpLogs/
 *.umc
 *.clz
 Code/*.pdf
+*_CrosspointList.txt
+UI/*_Project.zip
+UI/*.Core3/
 
 #Image Editor Folders
 _notes/
