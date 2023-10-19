@@ -1,0 +1,7 @@
+<Device Model="CP4N">
+   <Network Type="Cresnet" Id="01"/>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="TSW-770" DeviceId="03"/>
+      <Device Model="Crestron_Go" DeviceId="04" Name="Crestron Go"/>
+   </Network>
+</Device>
