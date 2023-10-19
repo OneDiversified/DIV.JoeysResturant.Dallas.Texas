@@ -1,0 +1,10 @@
+1. I dont see any info about Lights, shades, heaters, motors in drawings. What do we know about this
+2. Need make and model of CATV boxes to control them IR
+3. The UI document calls for a navigation pane to display from the hamburger menu. Nothing oin    document shows an example fothis page, or where on page it should display
+4. Help button states taht a FAQ page shoudl display, but no example is given of what it should look    like.
+5. UI says that a bass boost can be turned on or off, can you define what this is?
+6. UI calls for a 5 band eq control, is this system wide? Dont see the ability to select a zone.
+7. How are the TVs being controlled?
+8. Drawings show a bluestream encoder/decoder, PSOW sasy Visionary Solutions. What is teh manufacture
+ 
+
