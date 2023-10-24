@@ -1,0 +1,35 @@
+<Device Model="CP3">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="DIN-4DIMFLV4" DeviceId="87" Name="FANS"/>
+      <Device Model="DIN-4DIMFLV4" DeviceId="88" Name="FANS"/>
+      <Device Model="DIN-8SW8-I" DeviceId="89" Name="HEATERS LOW"/>
+      <Device Model="DIN-8SW8-I" DeviceId="8A" Name="HEATERS MEDIUM"/>
+      <Device Model="DIN-8SW8-I" DeviceId="8B" Name="HEATERS HIGH"/>
+      <Device Model="DIN-8SW8-I" DeviceId="8C" Name="HEATERS MAX"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="CEN-IO-RY-104" DeviceId="04" Name="TV LIFTS, LOUNGE - FB2"/>
+      <Device Model="CEN-IO-RY-104" DeviceId="05" Name="TV LIFTS, BB1 - PATIO"/>
+      <Device Model="CEN-IO-RY-104" DeviceId="06" Name="TV LIFTS, FB1 - BB2"/>
+      <Device Model="CEN-IO-RY-104" DeviceId="07" Name="HEATERS OFF"/>
+      <Device Model="CEN-IO-RY-104" DeviceId="08" Name="HEATERS OFF"/>
+      <Device Model="CEN-IO-COM-102" DeviceId="09" Name="PATIO SOMFY"/>
+      <Device Model="CEN-IO-RY-104" DeviceId="10" Name="BI-FOLD DOOR-1"/>
+      <Device Model="CEN-IO-RY-104" DeviceId="11" Name="BI-FOLD DOOR-2"/>
+      <Device Model="CEN-IO-RY-104" DeviceId="12" Name="BI-FOLD DOOR-3"/>
+      <Device Model="Core3 UI XPanel" DeviceId="21" Name="XPanel 2.0 Smart Graphics"/>
+      <Device Model="Crestron_App" DeviceId="33" Name="UI-1"/>
+      <Device Model="DM-NVX-E30C" DeviceId="41" Name="TX01"/>
+      <Device Model="DM-NVX-E30C" DeviceId="42" Name="TX02"/>
+      <Device Model="DM-NVX-E30C" DeviceId="43" Name="TX03"/>
+      <Device Model="DM-NVX-E30C" DeviceId="44" Name="TX04"/>
+      <Device Model="DM-NVX-E30C" DeviceId="45" Name="TX05"/>
+      <Device Model="DM-NVX-E30C" DeviceId="46" Name="TX06"/>
+      <Device Model="DM-NVX-D30" DeviceId="51" Name="DISP01"/>
+      <Device Model="DM-NVX-D30" DeviceId="52" Name="DISP02"/>
+      <Device Model="DM-NVX-D30" DeviceId="53" Name="DISP03"/>
+      <Device Model="DM-NVX-D30" DeviceId="54" Name="DISP04"/>
+      <Device Model="DM-NVX-D30" DeviceId="55" Name="DISP05"/>
+      <Device Model="DM-NVX-D30" DeviceId="56" Name="DISP06"/>
+   </Network>
+</Device>
