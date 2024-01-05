@@ -1,0 +1,26 @@
+Shades Info
+how many zones?
+Is it the Somfy Controller? If so what are zone IDs
+if not what is control method
+
+awning info?
+how many zones?
+Is it the Somfy Controller? If so what are zone IDs
+if not what is control method
+
+heaters info
+how many zones?
+Is it the Somfy Controller? If so what are zone IDs
+if not what is control method
+
+fan info?
+Big Ass Fans is manufaturer. Correct?
+control method is IP? if so what is IP
+how many total fans do we control?
+
+
+CATV info
+contact operations at Joey to confirm service provider for CATV so we can get box information
+
+confirm with electrical contractor
+
